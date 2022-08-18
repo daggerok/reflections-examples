@@ -5,6 +5,10 @@
 ./mvnw clean ; ./mvnw -U
 ```
 
+## rtfm
+* https://reflectoring.io/java-annotation-processing/
+* https://github.com/ronmamo/reflections
+
 <!--
 
 ### Reference Documentation
